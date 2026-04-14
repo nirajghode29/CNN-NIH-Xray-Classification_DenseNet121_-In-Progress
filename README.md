@@ -1,5 +1,3 @@
-
-
 This project builds a deep learning pipeline for **multi-label classification** on the **NIH Chest X-ray dataset** using **PyTorch** and a **pretrained DenseNet121** backbone.
 
 The main goal was to create a clean and practical training pipeline that covers:
@@ -33,7 +31,7 @@ That design decision affected several parts of the pipeline:
 
 A custom PyTorch dataset class was used to load the NIH data.
 
-### Dataset responsibilities
+### Dataset Pipeline
 
 The custom `NIHDataset` class was designed to:
 
