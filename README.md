@@ -1,4 +1,4 @@
-readme = r"""# NIH Chest X-ray Classification with DenseNet121
+
 
 This project builds a deep learning pipeline for **multi-label classification** on the **NIH Chest X-ray dataset** using **PyTorch** and a **pretrained DenseNet121** backbone.
 
